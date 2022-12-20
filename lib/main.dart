@@ -6,7 +6,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.white,
           appBar:AppBar(
-            title: Text('I am Rich by Jan Mark Calugay'),
+            title: Text('I am Rich by John Michael'),
             backgroundColor: Colors.blueGrey[900],
           ),
         body: Center(
